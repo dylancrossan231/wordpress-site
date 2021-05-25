@@ -1,0 +1,84 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: May 25, 2021 3:12 pm
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.4.0
+WORDPRESS:	5.7.2
+PHP INFO:	7.3.11 | SAPI: apache2handler
+SERVER:		Apache/2.4.41 (Win64) OpenSSL/1.1.1c PHP/7.3.11 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 4294967296 (512M default) 
+MEMORY STACK: 6MB
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   MYSQLDUMP
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported
+SQL CREATED: 20210525_gastbywordpress_731714db2315e0a98556_20210525151222_database.sql
+SQL FILE SIZE: 761.38KB (779658)
+SQL FILE TIME: 2021-05-25 15:12:34
+SQL RUNTIME: 1.56 sec.
+
+********************************************************************************
+ARCHIVE (ZIP):
+********************************************************************************
+ARCHIVE DIR:  C:/xampp/htdocs/wordpress
+ARCHIVE FILE: 20210525_gastbywordpress_731714db2315e0a98556_20210525151222_archive.zip
+FILTERS: *OFF*
+DIRS:
+	not set
+FILES:
+	not set
+EXTS:  not set
+----------------------------------------
+COMPRESSING
+SIZE:	80.46MB
+STATS:	Dirs 483 | Files 3,345
+SQL ADDED: 20210525_gastbywordpress_731714db2315e0a98556_20210525151222_database.sql
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3828
+    [filename] => C:\xampp\htdocs\wordpress\wp-content\backups-dup-lite\tmp\20210525_gastbywordpress_731714db2315e0a98556_20210525151222_archive.zip
+    [comment] => 
+)
+
+FILE ADDED TO ZIP: 3827
+COMPRESSION RESULT: '1'
+COMPRESSED SIZE: 33.6MB
+ARCHIVE RUNTIME: 19.95 sec.
+MEMORY STACK: 8MB
+building installer
+add_extra_files1
+add_extra_files2
+add_extra_files3
+add_extra_files4
+Doing archive file check
+add_extra_files5
+add_extra_files6
+add_extra_files8
+Successfully opened zip C:/xampp/htdocs/wordpress/wp-content/backups-dup-lite/tmp/20210525_gastbywordpress_731714db2315e0a98556_20210525151222_archive.zip
+Adding enhanced installer files to archive using ZipArchive
+Installer files added to archive
+Added to archive
+After ziparchive close when adding installer
+
+********************************************************************************
+INTEGRITY CHECKS:
+********************************************************************************
+SQL FILE: 761.38KB
+INSTALLER FILE: 63.96KB
+ARCHIVE FILE: 35.11MB 
+EXPECTED FILE/DIRECTORY COUNT: 3,828
+ACTUAL FILE/DIRECTORY COUNT: 3,827
+ARCHIVE CONSISTENCY TEST: Pass
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 22.05 sec.
+PEAK PHP MEMORY USED: 8MB
+DONE PROCESSING => 20210525_gastbywordpress May 25, 2021 3:12 pm
+
